@@ -3,7 +3,11 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
+<<<<<<< HEAD
 	<h1>F*ck this world!</h1>
+=======
+	<h1>Hello World!</h1>
+>>>>>>> ab-6l_ros
 	<img src="image.jpg"/>
 	<p> Donne Lorenzo C. Ros 2012, 2012-17662, AB-6L</p>
 </body>

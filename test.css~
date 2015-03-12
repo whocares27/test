@@ -1,4 +1,7 @@
 body{
-background-color: rgb(200,0,200);
-color: cyan;
+
+background-color: rgb(50,170,220);
+color: white;
+font-family:"Lucida Console", Monaco,monospace;
+
 }
