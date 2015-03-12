@@ -1,5 +1,4 @@
 body{
 background-color: rgb(200,0,200);
 color: cyan;
-font-family:"Comics Sans MS",cursive,sans-serif;
 }
